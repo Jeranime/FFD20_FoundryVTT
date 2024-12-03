@@ -1,0 +1,15 @@
+{
+    "id": "ffd20",
+    "title": "Final Fantasy d20 PF1e",
+    "description": "A module for Pathfinder 1e which imports all accompanying material within the Final Fantasy d20 project.",
+    "authors": [
+        {
+            "name": "Jeremy / JEZ01"
+        }
+    ],
+    "version": "0.0.1",
+    "compatibility": {
+        "minimum": "10",
+        "maximum": "11"
+    }
+}
